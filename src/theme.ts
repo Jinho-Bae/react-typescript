@@ -5,13 +5,13 @@ export const theme:DefaultTheme = {
     textColor: "white",
     accentColor: "#0c2461"
 }
-// export const lightTheme:DefaultTheme = {
-//     bgColor: "white",
-//     textColor: "black",
-//     btnColor: "tomato"
-// }
-// export const darkTheme:DefaultTheme = {
-//     bgColor: "black",
-//     textColor: "white",
-//     btnColor: "teal"
-// }
+export const lightTheme:DefaultTheme = {
+    bgColor: "white",
+    textColor: "black",
+    accentColor: "tomato"
+}
+export const darkTheme:DefaultTheme = {
+    bgColor: "black",
+    textColor: "white",
+    accentColor: "teal"
+}
